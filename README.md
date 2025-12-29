@@ -9,12 +9,13 @@ Ensures a smooth and consistent layout across mobile, tablet, and desktop.
 Layouts, fonts, and elements adjust based on screen size.
 Implemented using pure CSS with @media queries.
 
-2️⃣ Interactive Components Using JavaScript
+2. Random Joke Generator
+A fun and simple web app that fetches a random joke from the internet using the Official Joke API and displays it on the screen with a click of a button.
+
+3. Interactive Components Using JavaScript
 Interactive Quiz
 A simple multiple-choice quiz with instant feedback and score tracking.
 
-3️⃣ Random Joke Generator
-A fun and simple web app that fetches a random joke from the internet using the Official Joke API and displays it on the screen with a click of a button.
 
 🛠️ Technologies Used
 HTML5, CSS3 (Flexbox, Media Queries)
