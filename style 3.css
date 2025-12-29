@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: lab(62.44% -1.57 -45.26);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.quiz-box {
+  background: rgb(227, 210, 210);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(170, 159, 159, 0.1);
+  max-width: 500px;
+  width: 90%;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background: #7fa1c5;
+  color: rgb(151, 37, 37);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
